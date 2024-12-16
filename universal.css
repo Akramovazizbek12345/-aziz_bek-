@@ -1,0 +1,400 @@
+/*footer*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header nav {
+    background-color: black
+}
+
+html,
+body {
+    font-family: sans-serif;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+
+h1,
+h2,
+h3 {
+    padding-bottom: 20px;
+}
+
+p {
+    margin: 10px 0;
+}
+
+.navbar {
+    background-color: black;
+    color: #fff;
+    height: 70px;
+    padding: 25px 25px;
+    width: 100%;
+}
+
+.navbar a {
+    color: #fff;
+    padding: 28px 28px;
+}
+
+.lll {
+    float: left;
+}
+
+.navbar ul li {
+    float: right;
+    list-style: none;
+}
+
+.container {
+    max-width: 1050px;
+    margin: auto;
+}
+
+.courser {
+    color: #F7C08A;
+    background-color: #333;
+}
+
+.navbar .courser {
+    color: #F7C08A;
+}
+
+.navbar ul li a:hover {
+    background-color: #333;
+    color: #F7C08A;
+}
+
+.rasm {
+    background-image: url(showcase.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 595px;
+}
+
+.ggg {
+    color: #F7C08A;
+}
+
+.rasm h1 {
+    color: #fff;
+    font-size: 60px;
+}
+
+.orta {
+    text-align: center;
+    padding-top: 180px;
+}
+
+.orta p {
+    color: #fff;
+    font-size: 20px;
+}
+
+.about {
+    display: inline-block;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    padding: 18px 20px;
+    background-color: #333;
+    font-size: 18px;
+}
+
+.about:hover {
+    background-color: #F7C08A;
+    color: #333;
+}
+
+/*main*/
+
+.rang {
+    color: #F7C08A;
+}
+
+.oq {
+    color: #fff;
+    padding-top: 70px;
+}
+
+.black {
+    margin-left: 50%;
+    background-color: #333;
+    margin-top: -450px;
+    height: 450px;
+    text-align: center; 
+}
+
+.blackk {
+    background-image: url(photo-1.jpg);
+    background-repeat: no-repeat;
+
+
+    height: 450px;
+    width: 50%;
+}
+
+.black p {
+    color: #fff;
+}
+
+.aboutt {
+    display: inline-block;
+    color: #333;
+    cursor: pointer;
+    border: none;
+    padding: 15px 20px;
+    background-color: #fff;
+    font-size: 18px;
+}
+
+.aboutt:hover {
+    background-color: #F7C08A;
+    color: #333;
+}
+
+.quti {
+    width: 33.3%;
+    float: left;
+    padding: 50px;
+    text-align: center;
+}
+
+.bg-light {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.free-meals {
+    background-color: #f7c08a;
+    color: #333;
+}
+
+.footer {
+    background-color: #333;
+    height: 60px;
+    margin-top: 246px;
+    color: #fff;
+    text-align: center;
+    padding-top: 15px;
+}
+
+/*about */
+
+.text {
+    margin-right: 45%;
+    height: 325px;
+    padding-left: 150px;
+    padding-top: 30px;
+}
+
+.textt {
+    margin-left: 55%;
+    height: 325px;
+    margin-top: -325px;
+}
+
+
+.kattaa {
+    font-size: 39px;
+}
+
+.sabzii {
+    color: #F7C08A;
+}
+
+.bino {
+    height: 260px;
+    width: 380px;
+    border-radius: 50px;
+    margin-top: 35px;
+    margin-left: 60px;
+}
+
+.text p {
+    font-size: 18px;
+}
+
+/*main*/
+
+.what {
+    background-image: url(test-bg.jpg);
+    height: 729px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.oqq {
+    color: #fff;
+    text-align: center;
+    font-size: 38px;
+    padding-top: 120px;
+}
+
+.qimmat {
+    border-radius: 50%;
+    height: 100px;
+    margin-top: 11px;
+    margin-left: 9px;
+}
+
+.mit {
+    background-color: #F7C08A;
+    opacity: 90%;
+    height: 125px;
+    width: 75%;
+    margin: auto;
+    border-radius: 8px;
+}
+
+.mit p {
+    padding-left: 120px;
+    margin-top: -80px;
+}
+
+.zum {
+    background-color: #F7C08A;
+    opacity: 90%;
+    height: 125px;
+    width: 75%;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 8px;
+}
+
+.zum p {
+    padding-left: 120px;
+    margin-top: -80px;
+}
+
+.zumrad {
+    border-radius: 50%;
+    height: 100px;
+    margin-top: 11px;
+    margin-left: 9px;
+}
+
+
+/*footer*/
+.footerr {
+    background-color: #333;
+    height: 60px;
+    color: #fff;
+    text-align: center;
+    padding-top: 15px;
+}
+
+/*main*/
+
+.uzun {
+    width: 75%;
+    height: 30px;
+    margin-left: 150px;
+}
+
+.trr {
+    width: 75%;
+    height: 200px;
+    margin-left: 150px;
+}
+
+.sss {
+    display: inline-block;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    background-color: #333;
+    font-size: 18px;
+    padding: 10px 36%;
+    margin-left: 150px;
+}
+
+.sss:hover {
+    background-color: #F7C08A;
+    color: #333;
+}
+
+label {
+    margin-left: 150px;
+}
+
+main h1 {
+    margin-left: 150px;
+    font-size: 40px;
+}
+
+main .here {
+    margin-left: 150px;
+}
+
+main h1 span {
+    color: #F7C08A;
+}
+
+.srs {
+    width: 33.3%;
+    float: left;
+    padding: 50px;
+    text-align: center;
+    margin-top: 320px;
+}
+
+.grss-frin {
+    background-color: #333;
+    color: white;
+}
+
+.features {
+    padding-top: 300px;
+}
+
+.footerrr {
+    background-color: #444444;
+    padding-top: 15px;
+    text-align: center;
+    color: #fff;
+    height: 60px;
+    margin-top: 548px;
+}
+
+.ins{
+    background-color: rgb(243, 123, 143);
+    font-weight: 800;
+    border: none;
+    width: 100%;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.ins p a{
+    color: white;
+}
+
+.telegram{
+    background-color: rgb(44, 44, 189);
+    font-weight: 800;
+    border: none;
+    width: 100%;
+    text-align: center;
+    margin-top: 15px;   
+}
+
+.telegram p a{
+    color: white;
+}
+
+.telegram:hover{
+    background-color: black;
+}
+.ins:hover{
+    background-color: chartreuse;
+}
